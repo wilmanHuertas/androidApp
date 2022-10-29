@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">aprenderApp</string>
+    <string name="email_login">Email</string>
+    <string name="password_login">Password</string>
+    <string name="sign_login">sign in</string>
+    <string name="edithint_email">insert your Email</string>
+    <string name="edithint_pass">insert your Password</string>
+    //Alerts dialog
+    <string name="alert_pass">Password Error</string>
+    <string name="pass_error">insert your password</string>
+    <string name="alert_email">type error</string>
+    <string name="email_error">Email or password error</string>
+    <string name="alert_log">welcome</string>
+    <string name="message_log">Email and password are right</string>
+    <string name="positiveBtn">Get in</string>
+</resources>

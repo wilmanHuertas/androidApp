@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">aprenderApp</string>
+    <string name="email_login">Correo Electronico</string>
+    <string name="password_login">Contraseña</string>
+    <string name="sign_login">Iniciar Sesion</string>
+    <string name="edithint_email">inserte su correo electronico</string>
+    <string name="edithint_pass">inserte su contreseña</string>
+    //Alerts dialog
+    <string name="alert_pass">Contraseña incorrecta</string>
+    <string name="pass_error">Ingrese la contraseña correcta</string>
+    <string name="alert_email">Datos incorrectos</string>
+    <string name="email_error">El correo o contraseña no es valido</string>
+    <string name="alert_log">Bienvenido</string>
+    <string name="message_log">Correo y contraseña son correctos</string>
+    <string name="positiveBtn">Ingresar</string>
+</resources>
