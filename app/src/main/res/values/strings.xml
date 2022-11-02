@@ -13,4 +13,8 @@
     <string name="alert_log">welcome</string>
     <string name="message_log">Email and password are right</string>
     <string name="positiveBtn">Get in</string>
+    //item
+    <string name="item_close">log out</string>
+    <string name="item_car">Shopping car</string>
+    <string name="search">Search</string>
 </resources>

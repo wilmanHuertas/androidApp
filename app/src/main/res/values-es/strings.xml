@@ -13,4 +13,8 @@
     <string name="alert_log">Bienvenido</string>
     <string name="message_log">Correo y contraseña son correctos</string>
     <string name="positiveBtn">Ingresar</string>
+    //item
+    <string name="item_close">Cerrar Sesion</string>
+    <string name="item_car">ir a Carrito de Compras</string>
+    <string name="item_search">Buscar</string>
 </resources>
