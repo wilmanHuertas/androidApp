@@ -16,5 +16,10 @@
     //item
     <string name="item_close">log out</string>
     <string name="item_car">Shopping car</string>
-    <string name="search">Search</string>
+    <string name="item_search">Search</string>
+    //productos
+    <string name="milan_suit">Milan Suit</string>
+    <string name="paris_dress">Parisian Dress</string>
+    <string name="eli_pants">Eli Pants</string>
+    <string name="description_prod">lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla cuam velit, vulpulate eu paretra nec, mattis ac neque.</string>
 </resources>

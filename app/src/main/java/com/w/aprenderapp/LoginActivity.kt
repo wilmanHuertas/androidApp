@@ -14,6 +14,7 @@ import androidx.appcompat.app.AlertDialog
 class LoginActivity : AppCompatActivity() {
     private var edtEmail:EditText?=null
     private var edtClave:EditText?=null
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_login)

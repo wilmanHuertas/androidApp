@@ -17,4 +17,9 @@
     <string name="item_close">Cerrar Sesion</string>
     <string name="item_car">ir a Carrito de Compras</string>
     <string name="item_search">Buscar</string>
+    //productos
+    <string name="milan_suit">Traje Milan</string>
+    <string name="paris_dress">Vestido Paris</string>
+    <string name="eli_pants">Pantalon Eli</string>
+    <string name="description_prod">lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla cuam velit, vulpulate eu paretra nec, mattis ac neque.</string>
 </resources>

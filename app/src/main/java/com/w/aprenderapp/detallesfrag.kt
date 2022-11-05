@@ -5,10 +5,12 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
+import androidx.recyclerview.widget.RecyclerView
 
-class detallesfrag: Fragment(){
+class detallesfrag : Fragment(){
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
+        initRecyclerView()
     }
 
     override fun onCreateView(
@@ -18,5 +20,9 @@ class detallesfrag: Fragment(){
     ): View? {
         val fragDetalle=inflater.inflate(R.layout.fragdetalles, container, false)
         return fragDetalle
+    }
+
+    fun initRecyclerView(){
+        val recyclerView = findViewById<RecyclerView>(R.id.reclyclerCatalog)
     }
 }
