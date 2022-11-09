@@ -26,7 +26,7 @@ class LoginActivity : AppCompatActivity() {
         var email:String=edtEmail!!.text.toString()
         var password:String=edtClave!!.text.toString()
         val positiveButton ={ dialog: DialogInterface, entero: Int->
-            val intento= Intent(this,MainActivity::class.java)
+            val intento= Intent(this,catalogoActivity::class.java)
             startActivity(intento)
         }
 
