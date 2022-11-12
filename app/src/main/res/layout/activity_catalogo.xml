@@ -25,8 +25,8 @@
         android:orientation="vertical">
         <androidx.fragment.app.FragmentContainerView
             android:layout_width="match_parent"
-            android:name="com.w.aprenderapp.detallesfrag"
             android:layout_height="match_parent"
+            android:name="com.w.aprenderapp.detallesfrag"
             android:id="@+id/frag_container">
         </androidx.fragment.app.FragmentContainerView>
     </LinearLayout>
